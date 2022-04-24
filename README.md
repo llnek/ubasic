@@ -13,6 +13,7 @@ A micro basic interpreter.
 
 ## Usage
 
+ubasic <input-file>
 
 ## Contacting me / contributions
 
